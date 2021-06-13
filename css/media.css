@@ -1,0 +1,217 @@
+@media (min-width:1025px) and (max-width:1440px){
+    .popular h4 {
+        font-family: 'Bebas Neue', cursive;
+        color: #fff;
+        bottom: -42%;
+        left: 9%;
+    }
+    .popular h1 {
+        font-family: 'Bebas Neue', cursive;
+        color: #fff;
+        bottom: -50%;
+        left: 9%;
+    }
+    .more-fun h4 {
+        font-family: 'Bebas Neue', cursive;
+        color: #fff;
+        bottom: -40%;
+        left: 52%;
+    }
+    .more-fun h1 {
+        font-family: 'Bebas Neue', cursive;
+        color: #fff;
+        bottom: -55%;
+        left: 52%;
+    }
+    .fresh h4 {
+        font-family: 'Bebas Neue', cursive;
+        color: #fff;
+        bottom: -77%;
+        left: 52%;
+    }
+    .fresh h1 {
+        font-family: 'Bebas Neue', cursive;
+        color: #fff;
+        bottom: -85%;
+        left: 52%;
+    }
+    form a{
+        margin-right: 48.5%;
+    }
+    
+}
+@media (min-width:769px) and (max-width:1024px){
+    .intro h1{
+        font-size: 90px;
+    }
+    .popular h4 {
+        bottom: -8%;
+        left: 9%;
+    }
+    .popular h1 {
+        bottom: -15%;
+        left: 9%;
+    }
+    .more-fun h4 {
+        bottom: -8%;
+        left: 52%;
+    }
+    .more-fun h1 {
+        bottom: -22%;
+        left: 52%;
+    }
+    .fresh h4 {
+        bottom: -35%;
+        left: 52%;
+    }
+    .fresh h1 {
+        bottom: -42%;
+        left: 52%;
+    }
+    .price-tag h1 {
+        font-size: 50px;
+    }
+    .price-tag h2 {
+        font-size: 22px;
+    }
+    .burger-img{
+        width: 92%;
+        margin-left: 5%;
+    }
+    .booking{
+        min-height: 85vh;
+    }
+
+}
+@media (min-width:576px) and (max-width:768px){
+    .intro h1 {
+        font-size: 70px;
+        font-family: 'Alfa Slab One', cursive;
+        color: #3d2514;
+        text-shadow: 1.5px 1.5px #fff;
+    }
+    .intro h6 {
+        display: inline-block;
+        padding: 10px;
+        margin-top: 16%;
+        border: 3.5px dashed black;
+        font-size: 14px;
+        font-family: 'Bebas Neue', cursive;
+    }
+    .price-tag h1 {
+        font-size: 35px;
+        font-family: 'Bebas Neue', cursive;
+        color: white;
+        text-shadow: none;
+        position: relative;
+        top: 10%;
+    }
+    .price-tag h2 {
+        font-family: 'Bebas Neue', cursive;
+        color: white;
+        font-size: 20px;
+        letter-spacing: 3px;
+        position: relative;
+        bottom: 8%;
+        right: -3%;
+    }
+    .price-tag span {
+        font-size: 20px;
+    }
+    .popular h4 {
+        font-family: 'Bebas Neue', cursive;
+        color: #fff;
+        bottom: 13%;
+        font-size: 18px;
+        left: 9%;
+    }
+    .popular h1 {
+        font-family: 'Bebas Neue', cursive;
+        color: #fff;
+        bottom: 8%;
+        font-size: 26px;
+        left: 9%;
+    }
+    .more-fun h4 {
+        font-family: 'Bebas Neue', cursive;
+        color: #fff;
+        bottom: 13%;
+        font-size: 18px;
+        left: 53%;
+    }
+    .more-fun h1 {
+        font-family: 'Bebas Neue', cursive;
+        color: #fff;
+        bottom: 4%;
+        font-size: 26px;
+        left: 53%;
+    }
+    .fresh h1 {
+        font-family: 'Bebas Neue', cursive;
+        color: #fff;
+        font-size: 26px;
+        bottom: -10%;
+        left: 53%;
+    }
+    .fresh h4 {
+        font-family: 'Bebas Neue', cursive;
+        color: #fff;
+        bottom: -5%;
+        font-size: 18px;
+        left: 53%;
+    }
+    .burger-img {
+        width: 91%;
+        margin-left: 7%;
+    }
+    .booking{
+        min-height: 85vh;
+    }
+    form a{
+        font-size: 20px !important;
+    }
+    footer h5 {
+        font-family: 'Bebas Neue', cursive;
+        margin-bottom: 10px;
+        font-size: 17px;
+    }
+    footer i {
+        font-size: 25px;
+        width: 18%;
+    }
+    .icon a i {
+        font-size: 15px;
+        display: inline-block;
+        color: black;
+        height: 25px;
+        width: 25px;
+        border-radius: 50%;
+        background: white;
+        margin-right: 15px;
+        text-align: center;
+        line-height: 26px;
+    }
+    
+}
+@media (min-width:0px) and (max-width:575px){
+    form a{
+        margin-right: 41.5%;
+    }
+    .intro{
+        flex-direction: column-reverse;
+    }
+    .intro h1 {
+        font-size: 75px;
+        font-family: 'Alfa Slab One', cursive;
+        color: #3d2514;
+        text-align: center;
+        text-shadow: 1.5px 1.5px #fff;
+    }
+    .intro h3 {
+        text-align: center;
+        font-size: 55px;
+        font-family: 'Alfa Slab One', cursive;
+        color: #3d2514;
+        text-shadow: 1.5px 1.5px #fff;
+    }
+}
